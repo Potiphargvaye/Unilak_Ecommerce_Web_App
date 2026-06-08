@@ -66,7 +66,8 @@
 
 ---
 
-## 🖼️ Screenshots
+## <img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/8b456e00-867f-4c9e-8914-26e6a49e3103" />
+
 
 ### 1. Homepage
 ![Homepage](images/homepage.png)
