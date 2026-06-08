@@ -95,27 +95,27 @@
 
 ## 🧩 Challenges
 
-1. **WordPress.com Paywall** — Initially attempted to use WordPress.com but most professional themes required a paid Premium plan ($96). Switched to Wix which offered a fully functional free plan.
+1. **WordPress.com Paywall**  Initially attempted to use WordPress.com but most professional themes required a paid Premium plan ($96). Switched to Wix which offered a fully functional free plan.
 
-2. **Template Customization** — The base template used "Stella's Cookies" branding (San Francisco, USA). All text, location references, pricing, and contact details had to be manually replaced to reflect the Vaye's Cookies brand based in Kigali, Rwanda.
+2. **Template Customization** The base template used "Stella's Cookies" branding (San Francisco, USA). All text, location references, pricing, and contact details had to be manually replaced to reflect the Vaye's Cookies brand based in Kigali, Rwanda.
 
-3. **Currency Localization** — The default template used USD. Had to manually update all product prices to RWF (Rwandan Franc) and adjust the free delivery threshold accordingly.
+3. **Currency Localization**  The default template used USD. Had to manually update all product prices to RWF (Rwandan Franc) and adjust the free delivery threshold accordingly.
 
-4. **Category Labels** — Some product category labels still reflected the original template name ("Stella's Cookies") in the product filter sidebar, requiring additional edits inside the Wix product manager.
+4. **Category Labels**  Some product category labels still reflected the original template name ("Stella's Cookies") in the product filter sidebar, requiring additional edits inside the Wix product manager.
 
 ---
 
 ## 💡 Lessons Learned
 
-1. **No-Code tools are powerful** — Wix Studio enabled building a fully functional e-commerce site with cart, filtering, and contact forms without writing a single line of code.
+1. **No-Code tools are powerful**  Wix Studio enabled building a fully functional e-commerce site with cart, filtering, and contact forms without writing a single line of code.
 
-2. **Customization depth matters** — A template is just a starting point. Real value comes from adapting every element — text, images, colors, and content — to fit the brand identity.
+2. **Customization depth matters** A template is just a starting point. Real value comes from adapting every element — text, images, colors, and content — to fit the brand identity.
 
-3. **Platform choice is critical** — Choosing the right no-code platform from the start (free vs paid features) saves significant time. Always verify free plan limitations before investing time in a platform.
+3. **Platform choice is critical**  Choosing the right no-code platform from the start (free vs paid features) saves significant time. Always verify free plan limitations before investing time in a platform.
 
-4. **GitHub Markdown documentation** — Writing structured project documentation in Markdown is a professional and efficient way to present work. README.md files are standard in real-world software projects.
+4. **GitHub Markdown documentation**  Writing structured project documentation in Markdown is a professional and efficient way to present work. README.md files are standard in real-world software projects.
 
-5. **User experience over aesthetics** — A beautiful site that is hard to navigate scores lower than a clean, simple site where users can easily find products and contact information.
+5. **User experience over aesthetics**  A beautiful site that is hard to navigate scores lower than a clean, simple site where users can easily find products and contact information.
 
 ---
 
@@ -144,5 +144,5 @@ Unilak_Ecommerce_Web_App/
 
 ---
 
-*"Your project is not just an assignment — it is part of your professional portfolio."*
-*— Eric Maniraguha, Lecturer EWA408510*
+*"Your project is not just an assignment it is part of your professional portfolio."*
+* Eric Maniraguha, Lecturer EWA408510*
