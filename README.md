@@ -7,6 +7,7 @@
 | Field | Details |
 |---|---|
 | **Full Name** | Potiphar Gaye Vaye |
+| **Reg Number** | 24167/2024  |
 | **Course** | E-Commerce And Web Application — EWA408510 |
 | **Lecturer** | Eric Maniraguha |
 | **Academic Year** | 2025–2026 — Semester II |
@@ -66,24 +67,29 @@
 
 ---
 
-## <img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/8b456e00-867f-4c9e-8914-26e6a49e3103" />
+
 
 
 ### 1. Homepage
 ![Homepage](images/homepage.png)
 > Hero section with store branding, welcome message, and "Order Your Box" CTA button.
+> <img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/8b456e00-867f-4c9e-8914-26e6a49e3103" />
 
 ---
 
 ### 2. Products Page
 ![Products Page](images/products-page.png)
 > All Products catalog with category filters, product images, names, and prices in RWF.
+> <img width="1597" height="752" alt="image" src="https://github.com/user-attachments/assets/aca7f32d-baa1-4137-8af6-df5f502f22a5" />
+
 
 ---
 
 ### 3. Contact Page
 ![Contact Page](images/contact-page.png)
 > Contact Us section with Kigali address, phone number, email, and contact form.
+> <img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/0bbb1cf1-65a7-4eef-826c-cf958b1d0550" />
+
 
 ---
 
