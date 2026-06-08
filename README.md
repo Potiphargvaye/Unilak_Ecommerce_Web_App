@@ -1,4 +1,4 @@
-# 🍪 Vaye's Cookies — No-Code E-Commerce Web Application
+# 🍪 Vaye's Cookies  No-Code E-Commerce Web Application
 
 ---
 
@@ -8,11 +8,11 @@
 |---|---|
 | **Full Name** | Potiphar Gaye Vaye |
 | **Reg Number** | 24167/2024  |
-| **Course** | E-Commerce And Web Application — EWA408510 |
+| **Course** | E-Commerce And Web Application  EWA408510 |
 | **Lecturer** | Eric Maniraguha |
-| **Academic Year** | 2025–2026 — Semester II |
+| **Academic Year** | 2025–2026  Semester II |
 | **Completion Date** | June 08, 2026 |
-| **Institution** | UNILAK — Kigali, Gasabo, KK 508 ST |
+| **Institution** | UNILAK Kigali, Gasabo, KK 508 ST |
 
 ---
 
